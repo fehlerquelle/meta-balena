@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.58.5
+## (2020-10-06)
+
+* engine: load the cert during the CA extraction [Matthew McGinn]
+
 # v2.58.4
 ## (2020-10-05)
 
